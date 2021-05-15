@@ -2,10 +2,10 @@
 
 ## I'm a Student at ADGITM,Delhi, <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 👨🏻‍💻 I am a aspiring Software Developer
-- 🌱 I’m currently learning Electronjs and Socket.io 🤣
-- 💡 I love innovation and new technologies
-- 👯 I’m looking to collaborate with OPEN source PRojects in NODE/React
-- ⚡ Fun fact: I love to play Chess.
+- 🌱 I’m currently learning Electronjs and Socket.io 
+- 💡 I love innovations and new technologies
+- 👯 I’m looking to collaborate with OPEN source Projects in Node/React
+- ⚡ Fun fact: I love to play Chess.♟♟ and I am good at sports too.🏀🏏🎱 
 
 <br />
 
